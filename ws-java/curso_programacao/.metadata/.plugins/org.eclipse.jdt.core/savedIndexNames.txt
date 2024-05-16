@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\ricar\Desktop\GIT\ws_Java\ws-java\curso_programacao\.metadata\.plugins\org.eclipse.jdt.core
