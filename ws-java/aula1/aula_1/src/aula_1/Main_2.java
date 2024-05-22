@@ -1,15 +1,16 @@
 package aula_1;
 
+import java.util.Scanner;
+
 public class Main_2 {
 
 	public static void main(String[] args) {
-		int a, b;
-		double resultado;
-		a = 5;
-		b = 2;
-		resultado = (double) a / b;
-		System.out.println(resultado);
-
+		Scanner sc = new Scanner(System.in);
+		
+		String x;
+		x = sc.next();
+		System.out.println("Voce digitou " + x);		
+		sc.close();
 	}
 
 }
