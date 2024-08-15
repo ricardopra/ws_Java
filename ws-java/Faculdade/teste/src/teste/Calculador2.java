@@ -12,7 +12,6 @@ public class Calculador2 {
             count++;
         }
     }
-
     public static int calcularSoma() {
         int soma = 0;
         for (int i = 0; i < count; i++) {
