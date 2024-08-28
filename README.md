@@ -1,2 +1,2 @@
 # ws_Java
- Primeiro hello world
+hello world
